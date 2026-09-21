@@ -45,3 +45,5 @@ The system will process student marks, subject details, credits, and attendance 
 ## Project Status
 
 Phase 1 - Problem Understanding and Logic Designing
+Phase 2 - Completed Phase 2 coding and testing
+

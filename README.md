@@ -48,3 +48,16 @@ Phase 1 - Problem Understanding and Logic Designing
 
 Phase 2 - Completed Phase 2 coding and testing
 
+Phase 3 - Completed
+
+### Phase 3: Deployment
+
+- Prepared the project folder in Visual Studio Code.
+- Executed the Python application in the local development environment.
+- Verified the program output and generated graphs.
+- Tested the application to confirm successful execution.
+
+**Deployment Status:** The application runs successfully in the local VS Code environment.
+
+### Future Enhancement
+The application can be packaged as a standalone executable for easier use without manually running the Python source code.
